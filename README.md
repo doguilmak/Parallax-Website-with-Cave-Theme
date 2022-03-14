@@ -14,7 +14,7 @@ You can see the preview of the **index.html** file as 3355x1342 pixel on the bel
 
 You can modify the website as you wish.
 
-## Steps to be followed for the file to work   
+## Steps to be followed for run the project
 
  1.  Install packages
 
