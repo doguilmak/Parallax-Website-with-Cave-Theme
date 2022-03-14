@@ -30,7 +30,7 @@ Type input below in **package.json** in scripts seciton.
 
 3. Run 
 
-    npm run build
+    `npm run build`
 
 Then, open **index.html** in browser.
 
